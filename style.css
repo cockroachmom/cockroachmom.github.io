@@ -2,17 +2,29 @@ body {
    font-family: 'Calibri', Arial, sans-serif;
 }
 body {
-    background-color: #FFC0CB;
+    background-color: PaleVioletRed;
 }
 h1 {
-    font-size: 28px;
+    font-size: 30px;
   }
   body {
-    font-size: 18px;
+    font-size: 20px;
   }
 body {
     text-align: center;
 }
 li {
     text-align: left;
+}
+li {
+  font-size: 22px;
+}
+body{
+  font-style: oblique;
+}
+div {
+  background-color: pink;
+}
+img {
+  background-color: pink;
 }
